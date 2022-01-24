@@ -20,7 +20,8 @@ https://simpleicons.org/
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love the web and still think it has so much room to grow! Love to develop web-apps ever since I started being a self taught software developer.......also an unstoppable learner. I have evolved into a Full Stack Javascript career path, and love working with cutting edge tools and technologies.</p>
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I love attention to detail and logic!!
+Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I love attention to detail and logic!!  Fan of
+|Go|Java|Elixr|JavaSript|
 
 💻 **Languages and Tools:** 🛠️<br>
 
