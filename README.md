@@ -1,59 +1,80 @@
-<!--
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="wave">
+  <em>Feel free to reach out — I am always around.</em>
+</p>
 
-## Complete list of github markdown emoji markup
-https://gist.github.com/rxaviers/7360908
+<p align="center">
+  <a href="https://github.com/Beardless-sheik"><img src="https://img.shields.io/github/followers/Beardless-sheik?label=Follow%20Me&style=social" alt="GitHub followers"></a>
+  <a href="https://www.linkedin.com/in/alick-nyirenda/"><img src="https://img.shields.io/badge/LinkedIn-Alick%20Nyirenda-blue?logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn"></a>
+  <a href="mailto:nyirenda_a@zoho.com"><img src="https://img.shields.io/badge/mail-nyirenda_a@zoho.com-blue?logo=gmail&logoColor=white&labelColor=black" alt="Email"></a>
+</p>
 
-## technologies Icons 
-https://simpleicons.org/
+<h2 align="center">Hi there 👋, I am Alick Nyirenda</h2>
+<h3 align="center"><a href="https://beardless-sheik.github.io/Alicks-Portfolio/">Portfolio 🌐</a></h3>
 
--->
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Beardless_sheik)
-<br>
-<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Alick%20Nyirenda-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/alick-nyirenda/)
-[![Mail](https://img.shields.io/badge/mail-nyirenda_a@zoho.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:nyirenda_a@zoho.com)
-<br>
+<p align="center"><strong>Principal Product Engineer</strong> | Go + TypeScript | Fintech & Insurtech | Lusaka / Remote-first</p>
 
-<h2 align='center'><samp><strong>Hi there 👋, I am Alick Nyirenda</strong></samp></h2>
-<h3 align='center'><strong><a href="https://beardless-sheik.github.io/Alicks-Portfolio/" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Software developer | Full Stack Developer | Node | Ruby | Go | developer </p>
+<p align="left">🚢 Partner at <a href="https://kuseni.business">Kuseni Digital</a> and Tech Lead in insure-tech. 10+ years taking products from MVP to nationwide scale across Africa — most recently a vehicle valuation platform and insurance ERP supporting <strong>50,000+ policies</strong>. I live where engineering meets product: roadmaps, architecture, and shipping with small senior teams.</p>
 
-<p align='left'> 📫 Passionate about the pursuit of learning. I love the web and still think it has so much room to grow! Love to develop web-apps ever since I started being a software developer. I have evolved into a Full Stack Javascript/ Typescript career path, and love working with cutting edge tools and technologies.</p>
+<p align="left">📫 Open to <strong>remote-first Principal / Staff / Founding Engineer</strong> roles. I like cats, arrow functions, and deleting code.</p>
 
-Fan of
-|Go|Java|Elixr|Ruby|
+---
 
-💻 **Languages and Tools:** 🛠️<br>
+### 🔭 Currently
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
+- 🧩 Partner @ **Kuseni Digital Inc** — roadmap + architecture across Go + Remix/TypeScript
+- 🏗️ Tech Lead @ **KUALA TECH** — leading 6 engineers on valuation + insurance ERP
+- 🌱 Early-stage PropTech: [Loophole Properties](https://loophole.properties) (50 users, growing)
+
+### 💻 Languages & Tools
+
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
+![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=CC342D)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&labelColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![Remix](https://img.shields.io/badge/-Remix-000000?style=flat&logo=remix)
+![React Native](https://img.shields.io/badge/-React_Native-000000?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)
+![Rails](https://img.shields.io/badge/-Rails-000000?style=flat&logo=rubyonrails&logoColor=CC0000)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&labelColor=336791)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=E10098)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazonaws)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visualstudiocode&labelColor=007ACC)
 
+Fan of `Go` · `Elixir` · `Ruby` · `TypeScript`
 
-🧐 **Knowledge of:**<br>
+### 🧐 Also in the toolbox
 
-`Responsive web design`, `Styled Components`, `React, React Router`, `API Intergration`, `AXIOS`, `API Design`, `Object-Oriented Programming`, `data structures and algorithms`.
+`Responsive Web Design` · `Styled Components` · `React Router` · `API Integration` · `API Design` · `Axios` · `Object-Oriented Programming` · `Data Structures & Algorithms` · `TDD` · `Agile Delivery`
 
+### 🌍 Deploys to
 
-🌍 **Deployment platforms:**<br>
+![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-000000?style=flat&logo=githubpages)
+![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
+![AWS Amplify](https://img.shields.io/badge/-AWS_Amplify-000000?style=flat&logo=awsamplify)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 
-<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
+### 🚀 Featured builds
 
+| Project | What it is | Stack |
+|---|---|---|
+| [Kuseni Payroll](https://kuseni.business) | Payroll automation for Zambian SMEs: payroll, staff, compliance | Go, Remix, PostgreSQL |
+| [Axis Dashboard](https://kuseni.business) | Real-time economic dashboard: fuel, commodities, energy | React, GraphQL |
+| [Loophole Properties](https://loophole.properties) | PropTech for tenants, landlords & agents (50 users, 4+ cities) | TypeScript, React, PostgreSQL |
 
-🚩 **Highlights:** <br>
-&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
+### 📊 Stats
+
+![Alick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beardless-sheik&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beardless-sheik&layout=compact)
+
+### 🚩 Highlights
+
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="20" height="20" alt="acbadge">&nbsp;&nbsp;Arctic Code Vault Contributor
